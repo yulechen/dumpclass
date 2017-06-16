@@ -49,13 +49,14 @@
 
 	<dependencies>
 
-		<dependency>
+		<!-- <dependency>
 			<groupId>sun.jvm.hotspot</groupId>
 			<artifactId>sa-jdi</artifactId>
 			<version>${java.version}</version>
 			<scope>system</scope>
 			<systemPath>${java.home}/../lib/sa-jdi.jar</systemPath>
-		</dependency>
+		</dependency> 
+		-->
 
 		<dependency>
 			<groupId>junit</groupId>
